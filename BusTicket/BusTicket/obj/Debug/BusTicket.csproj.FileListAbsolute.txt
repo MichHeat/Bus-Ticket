@@ -1,0 +1,21 @@
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\bin\Debug\BusTicket.exe.config
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\bin\Debug\BusTicket.exe
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\bin\Debug\BusTicket.pdb
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.AssemblyReference.cache
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.SuggestedBindingRedirects.cache
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.Splash.resources
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.Properties.Resources.resources
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.GenerateResource.cache
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.CoreCompileInputs.cache
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.exe
+C:\FreightXchange\FreightXChange Websites\BusTicket\BusTicket\obj\Debug\BusTicket.pdb
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\bin\Debug\BusTicket.exe.config
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\bin\Debug\BusTicket.exe
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\bin\Debug\BusTicket.pdb
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.AssemblyReference.cache
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.Splash.resources
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.Properties.Resources.resources
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.GenerateResource.cache
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.CoreCompileInputs.cache
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.exe
+C:\Users\Michelle Heath\OneDrive\Desktop\CTU 2023\SEMESTER 1\PRG512\SA practical\BusTicket\BusTicket\obj\Debug\BusTicket.pdb
